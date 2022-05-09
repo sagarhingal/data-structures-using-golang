@@ -1,2 +1,5 @@
-# data-structures-using-golang
-This repository will contain golang code which demonstrates all types of data-structures.
+# Data Structures using GOLANG!
+This repository comprises of simple code which demonstrates all types of data-structures such as linked-lists, stacks, queues, etc.
+
+
+1. Linked-List
