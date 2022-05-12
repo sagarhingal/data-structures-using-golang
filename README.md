@@ -3,3 +3,4 @@ This repository comprises of simple code which demonstrates all types of data-st
 
 
 1. Linked-List
+2. Queue
